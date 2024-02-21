@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Guestbook", ".", "{3A28D971-9B0C-4154-B68E-D60F1AADF51B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55214"
+		Debug.AspNetCompiler.PhysicalPath = "..\Guestbook\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55214\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55214"
+		Release.AspNetCompiler.PhysicalPath = "..\Guestbook\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55214\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55214"
+		SlnRelativePath = "..\Guestbook\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A28D971-9B0C-4154-B68E-D60F1AADF51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A28D971-9B0C-4154-B68E-D60F1AADF51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304C108B-59BB-430B-86EE-4E2A8548CC6E}
+	EndGlobalSection
+EndGlobal
